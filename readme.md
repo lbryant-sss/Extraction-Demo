@@ -48,5 +48,5 @@ dynamic content and avoid breaking websites' terms of service.
 - Clean and transform the extracted data for further analysis.
 - Save the extracted data to a file (CSV, Excel) for later use.
 
-This project showcases your ability to extract data from various sources using Python libraries. Feel free to 
+This project showcases how to extract data from various sources using Python libraries. Feel free to 
 adapt and extend this code for your specific data extraction needs.
